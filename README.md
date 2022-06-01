@@ -3,8 +3,11 @@ HI
 um.. heres some links for stuff thats kinda stuffy
 
 https://quackypaddy.com
+
 https://quackypaddy.com/lumberquack/
+
 https://quackypaddy.com/ultraletterlinker/
+
 https://quackypaddy.com/duckgame/
 
 
