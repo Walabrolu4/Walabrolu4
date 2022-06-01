@@ -2,13 +2,13 @@ HI
 
 um.. heres some links for stuff thats kinda stuffy
 
-https://quackypaddy.com
+https://quackypaddy.com - My site
 
-https://quackypaddy.com/lumberquack/
+https://quackypaddy.com/lumberquack/ - Silly 24hr JS game
 
-https://quackypaddy.com/ultraletterlinker/
+https://quackypaddy.com/ultraletterlinker/ - In progress
 
-https://quackypaddy.com/duckgame/
+https://quackypaddy.com/duckgame/ - In also progress
 
 
 <!---
