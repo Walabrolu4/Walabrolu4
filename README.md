@@ -8,7 +8,9 @@ https://quackypaddy.com/lumberquack/ - Silly 24hr JS game
 
 https://quackypaddy.com/ultraletterlinker/ - In progress
 
-https://quackypaddy.com/duckgame/ - In also progress
+https://quackypaddy.com/duckgame/ - Small duck game D-make
+
+https://quackypaddy.com/catrulet/ - A simulator about my cat
 
 
 <!---
