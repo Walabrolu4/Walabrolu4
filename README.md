@@ -4,11 +4,12 @@ um.. heres some links for stuff thats kinda stuffy
 
 https://quackypaddy.com - My site
 
-https://quackypaddy.com/lumberquack/ - Silly 24hr JS game
+[Silly 24hr JS game](https://quackypaddy.com/Projects/lumberquack/index.html)
 
-https://quackypaddy.com/duckgame/ - Small duck game D-make
+[Small duck game D-make
+](https://quackypaddy.com/Projects/duckgame/index.html)
 
-https://quackypaddy.com/catrulet/ - A simulator about my cat
+[A simulator about my cat](https://quackypaddy.com/Projects/catrulet/index.html)
 
 
 <!---
