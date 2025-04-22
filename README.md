@@ -2,8 +2,8 @@ HI
 
 um.. heres some links for stuff thats kinda stuffy
 
-https://quackypaddy.com - My site
-
+[My site
+](https://quackypaddy.com)
 [Silly 24hr JS game](https://quackypaddy.com/Projects/lumberquack/index.html)
 
 [Small duck game D-make
